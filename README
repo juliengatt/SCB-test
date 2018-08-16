@@ -1,22 +1,9 @@
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/U9xixd6TZ3A/0.jpg)](http://www.youtube.com/watch?v=U9xixd6TZ3A "Video Title")
-[![Alt text](https://img.youtube.com/vi/U9xixd6TZ3A/0.jpg)](https://www.youtube.com/watch?v=U9xixd6TZ3A)
+Video Preview:
+https://www.youtube.com/watch?v=U9xixd6TZ3A
 
+App Was made with Appcelerator Titanium Framework.
+Built with Titanium SDK 7.2.0GA
 
-Welcome to your Appcelerator Titanium Mobile Project
-
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2016 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+See instructions to run it:
+Using Atom: https://atom.io/packages/appcelerator-titanium
+Download 7.2.0GA: https://www.appcelerator.com/blog/2018/06/ga-release-titanium-sdk-7-2-0-cli-7-0-4/
