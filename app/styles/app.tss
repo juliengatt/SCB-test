@@ -1,0 +1,8 @@
+'Window': {
+	backgroundColor: '#FFF',
+	barColor: '#5aacff',
+	titleAttributes: {
+		color: '#FFF'
+	},
+	largeTitleEnabled: true
+}

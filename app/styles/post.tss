@@ -1,0 +1,24 @@
+'ScrollView': {
+  layout: "vertical",
+  width: "100%"
+}
+
+'.title': {
+  top: 10,
+  font: {
+    fontSize: 18,
+    fontFamily: 'HelveticaNeue-Bold'
+  },
+  width: "90%",
+  textAlign: "left"
+}
+
+'.subtitle': {
+  top: 20,
+  font: {
+    fontSize: 16,
+    fontFamily: 'HelveticaNeue-Light'
+  },
+  width: "90%",
+  textAlign: "left"
+}

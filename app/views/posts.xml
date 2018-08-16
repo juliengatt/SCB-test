@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab>
+		<Window title="Posts">
+			<TableView dataCollection="posts" onClick="post">
+				<Widget src="com.row.view" text="{title}" image="/feed.png" hasChild="true" />
+		  </TableView>
+		</Window>
+	</Tab>
+</Alloy>

@@ -1,0 +1,7 @@
+<Alloy>
+	<Window title="Album">
+		<TableView dataCollection="album" onClick="photo">
+			<Widget src="com.row.view" text="{title}" image="{thumbnailUrl}" />
+		</TableView>
+	</Window>
+</Alloy>

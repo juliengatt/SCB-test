@@ -1,0 +1,28 @@
+'Tab': {
+  icon: 'tabs/todos.png',
+  title: 'Todos'
+}
+
+'#header': {
+	backgroundColor: "#FFF",
+	top: 0,
+	height: 44
+}
+
+'Button': {
+	color: "#5aacff",
+	font: {
+		fontSize: 20,
+		fontFamily: "HelveticaNeue-Bold"
+	},
+	width: "50%",
+	height: 20
+}
+
+'#separator': {
+	left: "0%",
+	bottom: 0,
+	backgroundColor: "#5aacff",
+	width: "50%",
+	height: 3
+}

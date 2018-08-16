@@ -1,0 +1,8 @@
+<Alloy>
+	<TabGroup id="tabgroup">
+		<Require src="users" id="users" />
+		<Require src="albums" id="albums" />
+		<Require src="todos" id="todos" />
+		<Require src="posts" id="posts" />
+	</TabGroup>
+</Alloy>

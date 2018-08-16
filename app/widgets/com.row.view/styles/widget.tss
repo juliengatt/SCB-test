@@ -1,0 +1,28 @@
+'#row': {
+	height: 80,
+	hasChild: true
+}
+
+'#image': {
+	image: '/profile.png',
+	left: 20,
+	height: 40,
+	opacity: 0.4
+}
+
+'#name': {
+	left: 90,
+	width: Ti.UI.FILL,
+	textAlign: 'left'
+}
+
+'#address': {
+	right: 0,
+	width: 60,
+	color: '#fff',
+	backgroundColor: '#5aacff',
+	borderRadius: 5,
+	font:{
+		fontSize: 12
+	}
+}

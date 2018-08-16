@@ -1,0 +1,10 @@
+<Alloy>
+	<View class="container">
+		<View class="left">
+			<Label id="leftText" />
+		</View>
+		<View class="right">
+			<Label id="rightText" />
+		</View>
+	</View>
+</Alloy>

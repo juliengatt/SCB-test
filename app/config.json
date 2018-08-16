@@ -1,0 +1,13 @@
+{
+	"global": {},
+	"env:development": {},
+	"env:test": {},
+	"env:production": {},
+	"os:android": {},
+	"os:ios": {},
+	"os:windows": {},
+	"dependencies": {
+		"com.row.view": "1.0",
+		"com.user.fields": "1.0"
+	}
+}

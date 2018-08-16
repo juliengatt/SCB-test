@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab>
+		<Window title="Albums">
+			<TableView dataCollection="albums" onClick="album">
+				<Widget src="com.row.view" text="{title}" image="/gallery.png" hasChild="true" />
+		  </TableView>
+		</Window>
+	</Tab>
+</Alloy>

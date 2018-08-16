@@ -1,0 +1,13 @@
+<Alloy>
+	<Window title="User">
+		<ScrollView id="scroll">
+			<Widget src="com.user.fields" left='Name:' right='{name}' />
+			<Widget src="com.user.fields" left='Username:' right='{username}' />
+			<Widget src="com.user.fields" left='Email:' right='{email}' />
+			<Widget src="com.user.fields" id="fulladdress" left='Address:' right='{fulladdress}' />
+			<Widget src="com.user.fields" left='Phone:' right='{phone}' />
+			<Widget src="com.user.fields" left='Website:' right='{website}' />
+			<Widget src="com.user.fields" id="company" left='Company:' right='{companies}' />
+		</ScrollView>
+	</Window>
+</Alloy>

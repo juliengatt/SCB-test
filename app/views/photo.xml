@@ -1,0 +1,8 @@
+<Alloy>
+	<Window title="Photo">
+		<ScrollView>
+			<Label id="title" />
+			<ImageView id="image" />
+		</ScrollView>
+	</Window>
+</Alloy>

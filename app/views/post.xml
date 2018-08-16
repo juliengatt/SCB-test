@@ -1,0 +1,8 @@
+<Alloy>
+	<Window title="Post">
+		<ScrollView>
+			<Label class="title" text="{title}" />
+			<Label class="subtitle" text="{body}" />
+		</ScrollView>
+	</Window>
+</Alloy>

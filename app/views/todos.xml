@@ -1,0 +1,14 @@
+<Alloy>
+	<Tab>
+		<Window title="Todos">
+			<View id="header">
+				<Button tab="0" left="0" title="Uncompleted" onClick="move" />
+				<Button tab="1" color="#000" right="0" title="Completed" onClick="move" />
+				<View id="separator" />
+			</View>
+			<TableView id="table" top="44" dataCollection="todos">
+				<Widget src="com.row.view" text="{title}" hasChild="false" />
+		  </TableView>
+		</Window>
+	</Tab>
+</Alloy>

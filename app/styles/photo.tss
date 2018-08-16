@@ -1,0 +1,15 @@
+"ScrollView": {
+	width: '100%',
+	layout: 'vertical'
+}
+
+"#title": {
+	width: '90%',
+	textAlign: 'left',
+	top: 10
+}
+
+"#image": {
+	width: '90%',
+	top: 20
+}

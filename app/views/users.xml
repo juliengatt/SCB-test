@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab>
+		<Window title="Users">
+			<TableView dataCollection="users" onClick="user" dataTransform="transform">
+				<Widget src="com.row.view" text="{name}" fulladdress="{fulladdress}" image="/profile.png" hasChild="true" />
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

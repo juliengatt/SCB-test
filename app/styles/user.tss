@@ -1,0 +1,9 @@
+'#scroll': {
+  layout: 'vertical'
+}
+
+'Button': {
+  height: 44,
+  width: "90%",
+  borderRadius: 5
+}
